@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there.
+Hi there. Check out my open-source projects and to see the languages I use, go to https://scott.huson.com.
