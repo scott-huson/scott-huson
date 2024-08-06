@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-Heyo! Check me out, go to (scott.huson.com)[https://scott.huson.com]
+Heyo! Check me out, go to [scott.huson.com](https://scott.huson.com)
